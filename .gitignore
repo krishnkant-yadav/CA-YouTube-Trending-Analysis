@@ -1,0 +1,4 @@
+# Large data files - regenerate locally via notebooks/01 and 03
+data/cleaned/*.db
+data/raw/*.xlsx
+data/cleaned/*.csv
